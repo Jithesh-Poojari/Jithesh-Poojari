@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jithesh-poojari&label=Profile%20views&color=0e75b6&style=flat" alt="jithesh-poojari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jithesh-poojari" alt="jithesh-poojari" /></a> </p>
-
 - 🔭 I’m currently working on [Link Note](https://link-note.vercel.app/)
 
 - 🌱 I’m currently learning **Next.Js, TypeScript**
+
+- 👯 I’m looking to collaborate on [tablify](https://github.com/jithesh-poojari/tablify)
 
 - 💬 Ask me about **next, tailwind**
 
@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/jithu_poojari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jithu_poojari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jithesh poojary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithesh poojary" height="30" width="40" /></a>
+<a href="https://instagram.com/jithu_poojari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jithu_poojari_" height="30" width="40" /></a>
 <a href="https://medium.com/@jithesh.coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jithesh.coder" height="30" width="40" /></a>
 </p>
 
