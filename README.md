@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jithesh-poojari&label=Profile%20views&color=0e75b6&style=flat" alt="jithesh-poojari" /> </p>
 
-- 🔭 I’m currently working on [Link Note](https://link-note.vercel.app/)
-
 - 🌱 I’m currently learning **Next.Js, TypeScript**
-
-- 👯 I’m looking to collaborate on [tablify](https://github.com/jithesh-poojari/tablify)
 
 - 💬 Ask me about **next, tailwind**
 
