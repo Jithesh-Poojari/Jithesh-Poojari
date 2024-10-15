@@ -2,6 +2,7 @@
 <h3 align="center">Passionate Web Developer Crafting Digital Experiences</h3>
 
 <a href="https://github.com/jsvine/pdfplumber/blob/stable/examples%2Fnotebooks%2Fextract-table-ca-warn-report.ipynb" target="blank">pdf sol1</a>
+<a href="https://chatgpt.com/share/670e24be-7144-800b-87d0-be94f9646201" target="blank">pdf sol2 - chatgpt</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jithesh-poojari&label=Profile%20views&color=0e75b6&style=flat" alt="jithesh-poojari" /> </p>
 
